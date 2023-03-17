@@ -10,8 +10,8 @@
 3. Clash for windows
 
 
-4. [Everything][]
-[Everything: www.baidu.com]
+4. Everything
+www.baidu.com
 
 5. Edge
 
