@@ -10,8 +10,8 @@
 3. Clash for windows
 
 
-4. [Everything](htttps://www.baidu.com)
-5. [Github](http://www.github.com)
+4. [Everything](https://www.baidu.com)
+
 
 5. Edge
 
