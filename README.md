@@ -1,18 +1,39 @@
 # init_Software
 科研装机必备
 
- Adobe Creative Cloud （PDF reader、PS）
- Anaconda
- Clash for windows
- Everything
- Edge
- Office
- PotPlayer （in OneDrive）
- Pycharm
- Spotify
- Steam
- WinRAR （in OneDrive）
- XMind
+1. Adobe Creative Cloud （PDF reader、PS）
+
+
+2. Anaconda
+
+
+3. Clash for windows
+
+
+4. Everything
+
+
+5. Edge
+
+
+6. Office
+
+
+7. PotPlayer （in OneDrive）
+
+
+8. Pycharm
+
+
+9. Spotify
+
+10. Steam
+
+
+11. WinRAR （in OneDrive）
+
+
+12. XMind
  Zotero (only nessesary in word)
  夸克
  向日葵
